@@ -1,4 +1,4 @@
-# [[bsde_torch]]((https://doi.org/10.1073/pnas.1718942115))
+# [[bsde_torch]](https://doi.org/10.1073/pnas.1718942115)
 A pytorch implementation of Backward Stochastic Differential Equation
 
 ## To execute:
