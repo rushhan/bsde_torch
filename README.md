@@ -3,7 +3,7 @@ A pytorch implementation of Backward Stochastic Differential Equation
 
 # [Deep BSDE Solver](https://doi.org/10.1073/pnas.1718942115) in Torch
 
-##To execute:
+## To execute:
 ```
 python main.py
 ```
