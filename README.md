@@ -15,6 +15,8 @@ More to follow!!
 
 ## Dependencies
 torch 1.10.0
+munch 2.5.0
+torchvision 1.6.3
 
 ## Reference
 [1] Han, J., Jentzen, A., and E, W. Overcoming the curse of dimensionality: Solving high-dimensional partial differential equations using deep learning,
