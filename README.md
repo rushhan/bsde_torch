@@ -8,7 +8,7 @@ A pytorch implementation of Backward Stochastic Differential Equation
 python main.py
 ```
 
-##Currently Supports and Tested:
+## Currently Supports and Tested:
 * `HJBLQ`: Hamilton-Jacobi-Bellman (HJB) equation.
 
 More to follow!!
