@@ -27,4 +27,4 @@ torchvision 1.6.3
 
 
 ## Note and Thanks:
-This Repo is heavily based on the work done by [[frankhan91]](https://github.com/frankhan91). THe original work is in Tensorflow and can be found [[here]](https://github.com/frankhan91/DeepBSDE). The current model reuses the same network for all the subswquent time step insteaad of creating new for each time step. This reduced the parameters to train.
+This Repo is heavily based on the work done by [[frankhan91]](https://github.com/frankhan91). THe original work is in Tensorflow and can be found [[here]](https://github.com/frankhan91/DeepBSDE). The current model reuses the same network for all the subswquent time step insteaad of creating new for each time step. This greatly reduced the parameters to train (about 1/20 the of the tf counterpart).
